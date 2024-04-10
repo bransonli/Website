@@ -10,7 +10,7 @@
 	- Relevant courses taking: Analysis 2, Sampling
 - **Saint Jude Catholic School - Manila**
 	- Duration: June 2020 - May 2022
-	- International Baccalaureate Diploma Programme (IBDP)
+	- International Baccalaureate Diploma Programme
 ## Machine learning research
 - **(UROP1100 - Undergraduate research opportunity) Fine-tuning large language model on mathematical reasoning**
 	- Duration: Feb 2024 - Present
