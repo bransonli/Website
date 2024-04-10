@@ -1,6 +1,6 @@
 # Aaron Branson Cigres Li (李浩东)
 -  abcli@connect.ust.hk // li.aaronbran@gmail.com 
-- I am an undergraduate statistics   student with interests in applied deep learning, reinforcement learning, deep learning theory, theoretical AI 
+- I am an undergraduate statistics student with interests in applied deep learning, reinforcement learning, deep learning theory, theoretical AI. I hope to be able to make use of theoretical knowledge to drive innovation in AI applications. 
 - Languages: English (Fluent), Mandarin (Fluent), Tagalog (Fluent), Hokkien (Fluent), Cantonese (Beginner, can understand basic conversation)
 ## Education 
 - **Hong Kong University of Science and Technology (Undergraduate Year 2)**
@@ -32,7 +32,7 @@
 	- Date: June 2021
 	- Description: Interned as a web developer and worked on a project for inventory management. Tasks assigned included using Vue to work on frontend design and PHP for backend API routing. Laravel web framework was used. 
 
-## Other things
+## Other projects
 - **(Personal project) Recent paper tracker**
 	- Date: March 2024 - Present
 	- Description: I maintain webpages containing the recent papers of academic fields of my interest using the ArXiv API and Obsidian publish
