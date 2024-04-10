@@ -1,5 +1,4 @@
 # Aaron Branson Cigres Li (李浩东)
-
 -  abcli@connect.ust.hk // li.aaronbran@gmail.com 
 - I am an undergraduate statistics   student with interests in applied deep learning, reinforcement learning, deep learning theory, theoretical AI 
 - Languages: English (Fluent), Mandarin (Fluent), Tagalog (Fluent), Hokkien (Fluent), Cantonese (Beginner, can understand basic conversation)
