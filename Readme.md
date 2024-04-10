@@ -1,5 +1,5 @@
 # Aaron Branson Cigres Li (李浩东)
--  abcli@connect.ust.hk // li.aaronbran@gmail.com 
+-  abcli@connect.ust.hk // li.aaronbran@gmail.com // 
 - I am an undergraduate statistics student with interests in applied deep learning, reinforcement learning, deep learning theory, theoretical AI. I hope to be able to make use of theoretical knowledge to drive innovation in AI applications. 
 - Languages: English (Fluent), Mandarin (Fluent), Tagalog (Fluent), Hokkien (Fluent), Cantonese (Beginner, can understand basic conversation)
 ## Education 
@@ -45,3 +45,7 @@
 	- Date: July 2022
 	- Description: Used TesseractOCR and OpenCV to process captured fill-in forms and extract to digital data
 	- [GitHub repository](https://github.com/bransonli/Project7)
+
+---
+
+_The latest version of my CV can be accessed through [aaronbransonli.com](aaronbransonli.com)_
