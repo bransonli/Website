@@ -42,5 +42,4 @@
 ---
 ### Additional information
 - I can fluently speak: English, Mandarin, Hokkien, Tagalog
-- Hobbies: girlfriend.aaronbransonli.com
 - _The latest version of my CV can be accessed through [aaronbransonli.com](aaronbransonli.com)_
