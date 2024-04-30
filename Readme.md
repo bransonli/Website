@@ -2,7 +2,7 @@
 -  abcli@connect.ust.hk
 - I am an undergraduate statistics student with experiences in deep learning. I hope to be able to make use of theoretical knowledge to drive innovation in AI applications. 
 ## Education 
-- **Hong Kong University of Science and Technology
+- **Hong Kong University of Science and Technology**
 	- Duration: September 2022 - Present
 	- Mathematics major (Statistics track)
 	- Relevant courses taken: Calculus 1, Calculus 2, Linear Algebra, Python Programming, Applied Statistics, Analysis 1, Multivariable Calculus, Probability
@@ -42,4 +42,5 @@
 ---
 ### Additional information
 - I can fluently speak: English, Mandarin, Hokkien, Tagalog
+- Hobbies: girlfriend.aaronbransonli.com
 - _The latest version of my CV can be accessed through [aaronbransonli.com](aaronbransonli.com)_
