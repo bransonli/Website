@@ -5,16 +5,16 @@
 - **Hong Kong University of Science and Technology**
 	- Duration: September 2022 - Present
 	- Mathematics major (Statistics track)
-	- Relevant courses taken: Calculus 1, Calculus 2, Linear Algebra, Python Programming, Applied Statistics, Analysis 1, Multivariable Calculus, Probability
-	- Relevant courses taking: Analysis 2, Sampling
+	- Relevant courses taken: Calculus 1, Calculus 2, Linear Algebra, Python Programming, Applied Statistics, Mathematical analysis, Multivariable Calculus, Probability, Real analysis, Sampling
 - **Saint Jude Catholic School - Manila**
 	- Duration: June 2020 - May 2022
-	- International Baccalaureate Diploma Programme
+	- International Baccalaureate Diploma Programme 
+
 ## Machine learning experience
 - **Fine-tuning large language model on mathematical reasoning**
 	- Duration: Feb 2024 - Present
 	- Description: Undergraduate research opportunity. Reading papers and data cleaning on project that works with large language model and mathematical data. Used open source Latex recognizing OCR models to extract data from PDF.
-	- Report PDF not available yet
+	- [Report PDF](https://www.dropbox.com/scl/fi/2f9vgdr9mnfsqtzrxecjs/UROP1100_Progress-report_LI-Aaron-Branson-Cigres.pdf?rlkey=c57afpk0a9tkeu8uirpukmx56&st=goxmhld9&dl=0)
 -  **Exploring sequential algebraic reasoning capabilities of neural networks** 
 	- Duration: May 2023 - August 2023
 	- Description: Independent research supervised by professor. Trained neural networks to sequential reason on elementary algebraic expressions. Engineered own data. 
@@ -25,9 +25,15 @@
 	- [Report PDF](https://hkustconnect-my.sharepoint.com/:b:/g/personal/abcli_connect_ust_hk/EYP0fCJ5IwNApZ1Eut-dIg8BpBEzBM_5ndAlgHv4DLf_8Q?e=18BKXJ&download=1)
 
 ## Work experience
+
+- **Data science internship**
+	- Date: June 2024 - Present
+	- Description: Building data mining and labelling pipeline to train models for automated commercial video production.
+
 - **Web development Internship at CometOne Solutions** 
 	- Date: June 2021
 	- Description: Interned as a web developer and worked on a project for inventory management. Tasks assigned included using Vue to work on frontend design and PHP for backend API routing. Laravel web framework was used. 
+
 
 ## Personal projects
 - **Using OCR technology to extract data from captured fill-in forms**
